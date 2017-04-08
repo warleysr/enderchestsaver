@@ -1,0 +1,13 @@
+# Tempo em MINUTOS para salvar os EnderChests (a cada)
+tempo-salvar: 2
+
+# Mensagem para quando tentar abrir o EnderChest ainda carregando os itens
+carregando: '&cSeu EnderChest ainda esta sendo carregado. Aguarde mais um pouco ou tente relogar.'
+
+# Conexao com o banco de dados
+MySQL:
+  host: localhost
+  port: 3306
+  user: root
+  pass: 
+  db: test
